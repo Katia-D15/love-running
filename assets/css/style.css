@@ -102,7 +102,7 @@ main{
 /* Footer*/ 
 
 footer{
-    background-color: darkmagenta;
+    background-color: rgb(136, 111, 245);
 }
 
 /* Media query: tablets and larger(768px and up)*/
